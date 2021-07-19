@@ -14,9 +14,5 @@
 - 📫 Reach me on Discord: **[dy1an#4895](https://discord.com/users/844928313642057749)**
 - 📫 Reach me via eMail: **[dy1an4895@protonmail.com](mailto:dy1an4895@protonmail.com)**
 
-### Credits
-- 👤 [@Luna-devv](https://github.com/Luna-devv) - helped with DNS of Synama.xyz
-- 👤 [@DreiMu](https://github.com/DreiMu) - Github About Format
-
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dy1an4895&show_icons=true&title_color=ffffff&&text_color=daf7dc&bg_color=151515)
