@@ -12,7 +12,7 @@
 
 ### Contact me
 - 📫 Reach me on Discord: **[dy1an#4895](https://discord.com/users/844928313642057749)**
-- 📫 Reach me via eMail: **[dy1an4895@protonmail.com](mailto:dy1an4895@protonmail.com)**
+- 📫 Reach me via eMail: **[dylan@synama.xyz](mailto:dylan@synama.xyz)**
 
 ### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dy1an4895&show_icons=true&title_color=ffffff&&text_color=daf7dc&bg_color=151515)
