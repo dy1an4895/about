@@ -6,7 +6,7 @@
 - 🤡 Wasted Potiential
 
 ### Socials/Entertainment
-- 💻 Steam: **[dy1an#4895](https://steamcommunity.com/id/dylanwtf/)**
+- 💻 Discord: **[dy1an#4895](https://steamcommunity.com/id/dylanwtf/)**
 - 🎮 Xbox: **[HitReg Juice](http://live.xbox.com/Profile?Gamertag=HitReg_Juice)**
 - 🎶 Spotify: **[Variety Playlist](https://open.spotify.com/playlist/5izAMXOlAeEJ60FA6t2zdS?si=0891fe49f3994d6b)**
 
